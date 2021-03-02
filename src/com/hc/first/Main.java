@@ -1,3 +1,7 @@
+/*
+* code repository: https://github.com/jaywhen/JavaCourse
+* author: jaywhen --- 2018051604079
+* */
 package com.hc.first;
 
 import com.hc.first.utils.Circle;
